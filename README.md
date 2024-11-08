@@ -1,6 +1,6 @@
 <img src="./banner.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
+# Hello World!, I'm Shyam, a professional Web Developer 👋🏼:
 🛜 currently working on my own [Portfolio Website](https://www.coderrshyam.tech)<br />👨🏼‍🎓 studying media based computer science at Bihar, India <br />👨🏼‍💻 working as a web developer since 2022.
 
 # 💻 Tech Stack:
